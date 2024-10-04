@@ -7,4 +7,6 @@ In the middle without root we will use the Adb command to disable the overlay th
 # Command to disable it with Adb:
 adb shell pm uninstall --user 0 com.miui.systemui.devices.overlay
 
-# However, we have a root version that doesn't sacrifice anything and works perfectly. (It will be in the release section as a module for magisk / ksu / aptch)
+# However, we have a root version that doesn't sacrifice anything and works perfectly.
+
+(It will be in the release section as a module for magisk / ksu / aptch)
